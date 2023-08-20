@@ -1,9 +1,9 @@
 <script setup>
-import Parent from './components/Parent.vue'
+import ParentComponent from './components/ParentComponent.vue'
 </script>
 
 <template>
-    <Parent />
+    <ParentComponent />
 </template>
 
 <style scoped>

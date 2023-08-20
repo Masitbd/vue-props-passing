@@ -1,8 +1,6 @@
 <script setup>
 
-import {inject} from 'vue'
-
-const data = inject('myData')
+defineProps(['data'])
 
 </script>
 
